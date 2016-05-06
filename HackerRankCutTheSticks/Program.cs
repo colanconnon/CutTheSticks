@@ -4,7 +4,7 @@ using System.IO;
 using System.Linq;
 /*
  * done on 05/05/2016
- *  colan
+ *  colan connon
  * */
 
 class Solution
